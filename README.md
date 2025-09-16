@@ -1,6 +1,6 @@
 # Splunk-SIEM-Challenge
 
-Welcome to the 5-Day Splunk SIEM Challenge – perfect for beginners starting with security monitoring!
+Welcome to Splunk SIEM Challenge – perfect for beginners starting with security monitoring!
 
 ---
 

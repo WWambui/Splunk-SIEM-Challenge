@@ -55,7 +55,7 @@ source="ssh_logs.json" host="wakiro-virtualBox" index="main" sourcetype="json"
 
 ## 📸Submission
 <p align="center">
-<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day2Task1.png" width="750"/>
-<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day2Task2.png" width="750"/>
-<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day2Task3.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/images/day2Task1.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/images/day2Task2.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/images/day2Task3.png" width="750"/>
 </p>

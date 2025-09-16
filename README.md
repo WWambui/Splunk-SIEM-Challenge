@@ -26,4 +26,4 @@ Welcome to Splunk SIEM Challenge – perfect for beginners starting with securit
 
 ---
 
-Let’s get started and build your SIEM skills! 🚀
+Let’s get started and build Splunk SIEM skills! 🚀

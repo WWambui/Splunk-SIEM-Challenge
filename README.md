@@ -8,7 +8,7 @@ Welcome to Splunk SIEM Challenge – perfect for beginners starting with securit
 
 **Day 1:** Install and Configure Splunk  
 **Day 2:** Ingest and Analyze Security Logs  
-**Day 3:** Create Your First Splunk Dashboard  
+**Day 3:** Create My First Splunk Dashboard  
 **Day 4:** Investigate Unauthorized Access (Failed Logins)  
 **Day 5:** Analyze HTTP Logs for Suspicious Activity
 

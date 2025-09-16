@@ -55,7 +55,7 @@ index=ssh_lab sourcetype="json"
 
 ## 📸Submission
 <p align="center">
-<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Nessus_Scan.png" width="750"/>
-<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Scan_Evidence.png" width="750"/>
-<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Scan_Evidence.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day2Task1.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day2Task2.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day2Task3.png" width="750"/>
 </p>

@@ -37,19 +37,19 @@ Use SPL queries to complete the following analysis:
 
 ### ✅Task 1: List the top 10 endpoints with failed SSH login attempts
 ```spl
-index=ssh_lab sourcetype="json" auth_success=false
+source="ssh_logs.json" host="wakiro-virtualBox" index="main" sourcetype="json" auth_success=false
 | stats count by "id.orig_h"
 | sort -count
 | head 10
 ```
 ### ✅Task 2: Find the number of total SSH connections
 ```spl
-index=ssh_lab sourcetype="json"
+source="ssh_logs.json" host="wakiro-virtualBox" index="main" sourcetype="json"
 | stats count as total_ssh_connections
 ```
 ### ✅Task 3: Count all event types (successful, failed, no-auth, multiple-failed) seen in the logs
 ```spl
-index=ssh_lab sourcetype="json"
+source="ssh_logs.json" host="wakiro-virtualBox" index="main" sourcetype="json"
 | stats count by event_type
 ```
 

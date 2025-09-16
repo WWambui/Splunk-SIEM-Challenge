@@ -55,5 +55,5 @@ http://<your-server-ip>:8000
 ## Submission
 <p align="center">
 <img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/day1installation.png" width="750"/>
-<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/DAy1installation (2).png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/Splunk-SIEM-Challenge/main/Day1.png" width="750"/>
 </p>

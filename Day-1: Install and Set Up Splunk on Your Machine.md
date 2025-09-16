@@ -47,18 +47,14 @@ http://<your-server-ip>:8000
 ```
 2. Log in with the admin credentials created earlier.
 
-## Evidence
-<p align="center">
-<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Nessus_Scan.png" width="750"/>
-<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Scan_Evidence.png" width="750"/>
-
-</p>
-   
-
 ## Conclusion
 ✅ Successfully installed Splunk on an Ubuntu machine.  
 ✅ Configured Splunk as a service and enabled auto-start.  
 
 
 ## Submission
-- Share a screenshot of Splunk Web 
+<p align="center">
+<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Nessus_Scan.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Scan_Evidence.png" width="750"/>
+
+</p>
